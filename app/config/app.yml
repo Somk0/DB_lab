@@ -1,0 +1,6 @@
+flask:
+  DEBUG: true
+  SECRET_KEY: "super-secret-key"
+
+db:
+  URI: "mysql+pymysql://root:1234@localhost:3306/flixbus"
